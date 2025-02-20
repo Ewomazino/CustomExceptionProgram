@@ -32,3 +32,11 @@ This is only the first part of the program. The final version will include:
 ✅ Loop to retry input if the age is invalid
 ✅ Logging errors to a file
 ✅ Storing valid ages in a list
+
+
+🚀 Improvements Over the Work-in-Progress Version
+
+✅ Added User Input Support → No more hardcoded values.
+✅ Handles Non-Numeric Inputs → Prevents crashes due to invalid input.
+✅ More Detailed Error Messages → Helps users understand what went wrong.
+✅ Structured Code → Exception handling is separated for clarity.
